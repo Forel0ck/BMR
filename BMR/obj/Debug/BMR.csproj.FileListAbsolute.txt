@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\BMR\BMR\obj\Debug\BMR.csprojAssemblyReference.cache
+C:\Users\user\source\repos\BMR\BMR\obj\Debug\Finish.g.cs
+C:\Users\user\source\repos\BMR\BMR\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\BMR\BMR\obj\Debug\App.g.cs
+C:\Users\user\source\repos\BMR\BMR\obj\Debug\BMR_MarkupCompile.cache
+C:\Users\user\source\repos\BMR\BMR\obj\Debug\BMR_MarkupCompile.lref
+C:\Users\user\source\repos\BMR\BMR\bin\Debug\BMR.exe.config
+C:\Users\user\source\repos\BMR\BMR\bin\Debug\BMR.exe
+C:\Users\user\source\repos\BMR\BMR\bin\Debug\BMR.pdb
+C:\Users\user\source\repos\BMR\BMR\obj\Debug\Finish.baml
+C:\Users\user\source\repos\BMR\BMR\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\BMR\BMR\obj\Debug\BMR.g.resources
+C:\Users\user\source\repos\BMR\BMR\obj\Debug\BMR.Properties.Resources.resources
+C:\Users\user\source\repos\BMR\BMR\obj\Debug\BMR.csproj.GenerateResource.cache
+C:\Users\user\source\repos\BMR\BMR\obj\Debug\BMR.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BMR\BMR\obj\Debug\BMR.exe
+C:\Users\user\source\repos\BMR\BMR\obj\Debug\BMR.pdb
